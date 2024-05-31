@@ -1,0 +1,14 @@
+{
+  "name": "keylogger",
+  "version": "1.0.0",
+  "description": "Simple keylogger application using Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
+}
